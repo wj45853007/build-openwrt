@@ -33,6 +33,7 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 svn co https://github.com/kenzok8/openwrt-packages package/kenzo
 svn co https://github.com/kenzok8/small package/small
 svn co https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
+svn co https://github.com/kenzok8/small-package/tree/main/luci-app-UUGameAcc package/luci-app-UUGameAcc
 
 # Fix runc version error
 # rm -rf ./feeds/packages/utils/runc/Makefile
